@@ -1,0 +1,103 @@
+**Indian & South Asian Languages**  
+- **Kannada** - ಕನ್ನಡ  
+- **Hindi** - हिन्दी  
+- **English** - English  
+- **Tamil** - தமிழ்  
+- **Telugu** - తెలుగు  
+- **Malayalam** - മലയാളം  
+- **Marathi** - मराठी  
+- **Gujarati** - ગુજરાતી  
+- **Punjabi** - ਪੰਜਾਬੀ  
+- **Bengali** - বাংলা  
+- **Odia** - ଓଡ଼ିଆ  
+- **Urdu** - اردو  
+- **Sanskrit** - संस्कृतम्  
+- **Konkani** - कोंकणी  
+- **Assamese** - অসমীয়া  
+- **Nepali** - नेपाली  
+- **Sindhi** - سنڌي  
+- **Bodo** - बड़ो  
+- **Maithili** - मैथिली  
+- **Kashmiri** - كشميري  
+- **Dogri** - डोगरी  
+- **Santhali** - ᱥᱟᱱᱛᱟᱲᱤ  
+- **Manipuri (Meitei)** - ꯃꯩꯇꯩꯂꯣꯟ  
+- **Sinhalese** - සිංහල  
+**East Asian Languages**  
+- **Chinese (Mandarin)** - 中文  
+- **Cantonese (Yue)** - 粵語  
+- **Japanese** - 日本語  
+- **Korean** - 한국어  
+- **Mongolian** - Монгол хэл  
+- **Tibetan** - བོད་སྐད་  
+
+ **Middle Eastern & Central Asian Languages**  
+- **Arabic** - العربية  
+- **Persian (Farsi)** - فارسی  
+- **Pashto** - پښتو  
+- **Hebrew** - עברית  
+- **Turkish** - Türkçe  
+- **Kurdish (Kurmanji)** - Kurdî  
+- **Kurdish (Sorani)** - کوردی  
+- **Azerbaijani** - Azərbaycan dili  
+- **Kazakh** - Қазақ тілі  
+- **Uzbek** - Oʻzbek tili  
+- **Tajik** - тоҷикӣ  
+- **Uighur** - ئۇيغۇرچە  
+
+**European Languages**  
+- **French** - Français  
+- **German** - Deutsch  
+- **Spanish** - Español  
+- **Portuguese** - Português  
+- **Italian** - Italiano  
+- **Greek** - Ελληνικά  
+- **Dutch** - Nederlands  
+- **Polish** - Polski  
+- **Czech** - Čeština  
+- **Hungarian** - Magyar  
+- **Romanian** - Română  
+- **Ukrainian** - Українська  
+- **Russian** - русский  
+- **Belarusian** - беларуская  
+- **Serbian** - Српски  
+- **Croatian** - Hrvatski  
+- **Bosnian** - Bosanski  
+- **Bulgarian** - Български  
+- **Slovak** - Slovenčina  
+- **Slovenian** - Slovenščina  
+- **Latvian** - Latviešu  
+- **Lithuanian** - Lietuvių  
+- **Estonian** - Eesti  
+
+### **African Languages**  
+- **Swahili** - Kiswahili  
+- **Hausa** - Harshen Hausa  
+- **Yoruba** - Èdè Yorùbá  
+- **Igbo** - Asụsụ Igbo  
+- **Amharic** - አማርኛ  
+- **Somali** - Soomaali  
+- **Zulu** - isiZulu  
+- **Xhosa** - isiXhosa  
+- **Afrikaans** - Afrikaans  
+- **Tigrinya** - ትግርኛ  
+- **Shona** - chiShona  
+- **Oromo** - Afaan Oromoo  
+
+**Southeast Asian Languages**  
+- **Thai** - ไทย  
+- **Burmese** - မြန်မာဘာသာ  
+- **Lao** - ພາສາລາວ  
+- **Khmer (Cambodian)** - ភាសាខ្មែរ  
+- **Vietnamese** - Tiếng Việt  
+- **Malay** - Bahasa Melayu  
+- **Indonesian** - Bahasa Indonesia  
+- **Filipino (Tagalog)** - Filipino  
+- **Javanese** - ꦧꦱꦗꦮ  
+- **Sundanese** - Basa Sunda  
+
+**Pacific & Indigenous Languages**  
+- **Hawaiian** - ʻŌlelo Hawaiʻi  
+- **Maori** - Te Reo Māori  
+- **Samoan** - Gagana Samoa  
+- **Tongan** - Lea Faka-Tonga  
