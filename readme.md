@@ -81,7 +81,7 @@ python app.py
 **Mohammed Razin CR**  
 🚀 Tech Enthusiast | Frontend Developer | AI & Language Processing  
 📍 Chikkamagaluru, India  
-📌 [GitHub](https://github.com/Mohammed-razin-cr) | [LinkedIn](https://www.linkedin.com/in/mohammed-razin-cr) | 
+📌 [GitHub](https://github.com/Mohammed-razin-cr) | [LinkedIn]([https://www.linkedin.com/in/mohammed-razin-cr](https://www.linkedin.com/in/mohammed-razin-cr-100b432a3/?originalSubdomain=in)) | 
 
 ---
 
